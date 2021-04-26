@@ -1,0 +1,17 @@
+C:\Users\luiss\Documents\Trabajos U\Tesis\Api\ApiMovil\AppMovil.Models\bin\Debug\netcoreapp3.1\AppMovil.Models.deps.json
+C:\Users\luiss\Documents\Trabajos U\Tesis\Api\ApiMovil\AppMovil.Models\bin\Debug\netcoreapp3.1\AppMovil.Models.dll
+C:\Users\luiss\Documents\Trabajos U\Tesis\Api\ApiMovil\AppMovil.Models\bin\Debug\netcoreapp3.1\AppMovil.Models.pdb
+C:\Users\luiss\Documents\Trabajos U\Tesis\Api\ApiMovil\AppMovil.Models\obj\Debug\netcoreapp3.1\AppMovil.Models.AssemblyInfoInputs.cache
+C:\Users\luiss\Documents\Trabajos U\Tesis\Api\ApiMovil\AppMovil.Models\obj\Debug\netcoreapp3.1\AppMovil.Models.AssemblyInfo.cs
+C:\Users\luiss\Documents\Trabajos U\Tesis\Api\ApiMovil\AppMovil.Models\obj\Debug\netcoreapp3.1\AppMovil.Models.dll
+C:\Users\luiss\Documents\Trabajos U\Tesis\Api\ApiMovil\AppMovil.Models\obj\Debug\netcoreapp3.1\AppMovil.Models.pdb
+C:\Users\luiss\Documents\Trabajos U\Tesis\Api\ApiMovil\AppMovil.Models\obj\Debug\netcoreapp3.1\AppMovil.Models.csprojAssemblyReference.cache
+C:\Users\luiss\Documents\Trabajos U\Tesis\Api\Api\Tesis-Api\AppMovil.Models\bin\Debug\netcoreapp3.1\AppMovil.Models.deps.json
+C:\Users\luiss\Documents\Trabajos U\Tesis\Api\Api\Tesis-Api\AppMovil.Models\bin\Debug\netcoreapp3.1\AppMovil.Models.dll
+C:\Users\luiss\Documents\Trabajos U\Tesis\Api\Api\Tesis-Api\AppMovil.Models\bin\Debug\netcoreapp3.1\AppMovil.Models.pdb
+C:\Users\luiss\Documents\Trabajos U\Tesis\Api\Api\Tesis-Api\AppMovil.Models\obj\Debug\netcoreapp3.1\AppMovil.Models.csprojAssemblyReference.cache
+C:\Users\luiss\Documents\Trabajos U\Tesis\Api\Api\Tesis-Api\AppMovil.Models\obj\Debug\netcoreapp3.1\AppMovil.Models.AssemblyInfoInputs.cache
+C:\Users\luiss\Documents\Trabajos U\Tesis\Api\Api\Tesis-Api\AppMovil.Models\obj\Debug\netcoreapp3.1\AppMovil.Models.AssemblyInfo.cs
+C:\Users\luiss\Documents\Trabajos U\Tesis\Api\Api\Tesis-Api\AppMovil.Models\obj\Debug\netcoreapp3.1\AppMovil.Models.csproj.CoreCompileInputs.cache
+C:\Users\luiss\Documents\Trabajos U\Tesis\Api\Api\Tesis-Api\AppMovil.Models\obj\Debug\netcoreapp3.1\AppMovil.Models.dll
+C:\Users\luiss\Documents\Trabajos U\Tesis\Api\Api\Tesis-Api\AppMovil.Models\obj\Debug\netcoreapp3.1\AppMovil.Models.pdb
